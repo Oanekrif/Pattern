@@ -14,6 +14,7 @@
 
 ## 🖼️ Patterns Included</br>
 
+
 ### 🔹 Right-Aligned Triangle
 
 • one_for: Using for loops.</br>
@@ -123,8 +124,10 @@
 5. View Output:</br>
 The output will be displayed in the terminal/console.</br></br>
 
-## 🎨 Example Outputs</br>
+## 🖼️ Result Overview</br>
+![Code Overview](pattern.jpg)
 
+## 🎨 Example Outputs</br>
 🔹 Example 1: Right-Aligned Triangle
 
     * 
